@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ElasticJobDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ElasticJobDemo.war">
+      <element id="artifact" artifact-name="ElasticJobDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
